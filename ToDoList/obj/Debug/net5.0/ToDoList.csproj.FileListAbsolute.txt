@@ -1,0 +1,16 @@
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\ToDoList.csproj.AssemblyReference.cache
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfoInputs.cache
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfo.cs
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\bin\Debug\net5.0\ToDoList.exe
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\bin\Debug\net5.0\ToDoList.deps.json
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.json
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\bin\Debug\net5.0\ToDoList.dll
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\bin\Debug\net5.0\ToDoList.pdb
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\ToDoList.dll
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\refint\ToDoList.dll
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\ToDoList.pdb
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\ToDoList.genruntimeconfig.cache
+C:\xampp\htdocs\REPOS\ASP\ToDoList\ToDoList\obj\Debug\net5.0\ref\ToDoList.dll
